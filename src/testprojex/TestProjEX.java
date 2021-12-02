@@ -12,10 +12,10 @@ package testprojex;
 public class TestProjEX {
 
     /**
-     * @param args the command line arguments
+     code is a bad thing for my mental health
      */
     public static void main(String[] args) {
-        System.out.println("Hello world");
+        System.out.println("code is a bad thing for my mental health");
     }
     //pain
     
